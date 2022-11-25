@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @varniethan
 - 👀 I’m interested in AI
 - 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me varniethan@pm.me
+- 📫 How to reach me varniethan
 - <!---
 - 🌱 I’m currently learning ...
 --->
