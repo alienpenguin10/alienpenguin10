@@ -3,7 +3,7 @@
 - <!---
 - 🌱 I’m currently learning ...
 --->
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me varniethan@pm.me
 
 <!---
