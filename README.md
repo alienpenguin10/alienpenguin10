@@ -5,9 +5,6 @@ Hello, my name is Varniethan. I am a second-year undergraduate Computer Science 
 [:house: varnie.tech](https://varnie.tech) |
 [:mailbox: varniethan@protonmail.com](mailto:varniethan@protonmail.com)
 
-- [:key: PGP public key (varniethan@protonmail.com)](https://keys.openpgp.org/vks/v1/by-fingerprint/BB302E2E1E8460173DD869A0E584CD0E64E26B84)
-- [:key: PGP public key (git@afneville.com)](https://keys.openpgp.org/vks/v1/by-fingerprint/5327548E8A384B0036410BDF262E0CE9C78FD949)
-
 ## :robot: AI
 
 - [Self Driving Car](https://github.com/varniethan/self-driving-car)
