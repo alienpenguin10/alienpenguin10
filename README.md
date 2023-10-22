@@ -26,4 +26,5 @@ Hello, my name is Varniethan. I am a second-year undergraduate Computer Science 
 ## :computer: Web development
 
 - [Timetracker](https://github.com/varniethan/timetracker)
-- [E-shop](https://github.com/afneville/cmatrix)
+- [E-shop](https://github.com/varniethan/eshopfrontend)
+- [Honnest-Emssions](https://github.com/varniethan/eshopfrontend)
