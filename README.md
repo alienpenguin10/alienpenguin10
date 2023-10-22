@@ -15,7 +15,7 @@ Hello, my name is Varniethan. I am a second-year undergraduate Computer Science 
 
 ## :lock: Cybersecurity
 
-- [Attacks](https://github.com/varniethan/Cybersecurity)
+- [Attack Demos](https://github.com/varniethan/Cybersecurity)
 - [Intrusion Detection System](https://github.com/varniethan/intrusion-detection-system)
 
 ## :desktop_computer: Software development
