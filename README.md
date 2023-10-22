@@ -18,12 +18,12 @@ Hello, my name is Varniethan. I am a second-year undergraduate Computer Science 
 - [Attacks](https://github.com/varniethan/Cybersecurity)
 - [Intrusion Detection System](https://github.com/varniethan/intrusion-detection-system)
 
-## :desktop: Software development
+## :desktop_computer: Software development
 
 - [SRPN Calculator](https://github.com/varniethan/SRPN)
 - [Dungeon of Doom](https://github.com/afneville/Dungeon_of_Doom)
   
-## :laptop: Web development
+## :computer: Web development
 
 - [Timetracker](https://github.com/varniethan/timetracker)
 - [E-shop](https://github.com/afneville/cmatrix)
