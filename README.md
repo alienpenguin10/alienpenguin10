@@ -1,32 +1,29 @@
 # Project Portfolio
 
-Hello, my name is Alexander. I am a second-year undergraduate Computer
-Science student at the University of Birmingham. I am currently learning
-about programming and software engineering, focusing on the C, C++ and
-Python languages. I am particularly interested in free and open-source
-software, Linux & Unix, self-hosting and Internet privacy &
-security.
+Hello, my name is Varniethan. I am a second-year undergraduate Computer Science and Artificial Intelligence student at the University of Bath. As a highly motivated student with a deep passion for AI, emerging technologies and chair of the Cybersecurity Society, I am on the lookout for an engaging placement that will propel the advancement of my skills and knowledge. Benefiting from a robust academic foundation and a profound curiosity about cutting-edge technologies, I am resolute in my pursuit of a career within this dynamic and exhilarating field.
 
-[:house: afneville.com](https://afneville.com) |
-[:mailbox: contact@afneville.com](mailto:contact@afneville.com)
+[:house: varniek.dev](https://varniek.dev) |
+[:mailbox: contact@afneville.com](mailto:varniethan@protonmail.com)
 
-- [:key: PGP public key (contact@afneville.com)](https://keys.openpgp.org/vks/v1/by-fingerprint/BB302E2E1E8460173DD869A0E584CD0E64E26B84)
+- [:key: PGP public key (varniethan@protonmail.com)](https://keys.openpgp.org/vks/v1/by-fingerprint/BB302E2E1E8460173DD869A0E584CD0E64E26B84)
 - [:key: PGP public key (git@afneville.com)](https://keys.openpgp.org/vks/v1/by-fingerprint/5327548E8A384B0036410BDF262E0CE9C78FD949)
 
-## :gear: System Configuration
+## :robot: AI
 
-- [Dotfiles](https://github.com/afneville/dotfiles)
-- [Emacs Initialisation](https://github.com/afneville/emacs-config)
-- [Neovim Initialisation](https://github.com/afneville/nvim-config)
+- [Self Driving Car](https://github.com/varniethan/self-driving-car)
+- [Sudoku](https://github.com/varniethan/Sudoku)
 
-## :bar_chart: Data Science
+## :lock: Cybersecurity
 
-- [MNIST Digit Classifier](https://github.com/afneville/MNIST_solver)
-- [Optical Character Recognition](https://github.com/afneville/OCR)
-- [Physics Data Workflow](https://github.com/afneville/physics)
+- [Attacks](https://github.com/varniethan/Cybersecurity)
+- [Intrusion Detection System](https://github.com/varniethan/intrusion-detection-system)
 
-## :octocat: Other
+## :desktop: Software development
 
-- [Memory Allocator](https://github.com/afneville/memory_allocator)
-- [Cmatrix Clone](https://github.com/afneville/cmatrix)
-- [My Home Page](https://github.com/afneville/website)
+- [SRPN Calculator](https://github.com/varniethan/SRPN)
+- [Dungeon of Doom](https://github.com/afneville/Dungeon_of_Doom)
+  
+## :laptop: Web development
+
+- [Timetracker](https://github.com/varniethan/timetracker)
+- [E-shop](https://github.com/afneville/cmatrix)
