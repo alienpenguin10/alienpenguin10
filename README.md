@@ -2,7 +2,7 @@
 
 Hello, my name is Varniethan. I am a second-year undergraduate Computer Science and Artificial Intelligence student at the University of Bath. As a highly motivated student with a deep passion for AI, emerging technologies and chair of the Cybersecurity Society, I am on the lookout for an engaging placement that will propel the advancement of my skills and knowledge. Benefiting from a robust academic foundation and a profound curiosity about cutting-edge technologies, I am resolute in my pursuit of a career within this dynamic and exhilarating field.
 
-[:house: varnie.tech](https://varnie.tech)
+[:house: varniethank.com](https://varniethank.com)
 
 ## :robot: AI
 
