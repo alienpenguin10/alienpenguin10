@@ -8,9 +8,6 @@ Hello, my name is Varniethan. I am a final year undergraduate Computer Science a
 
 ## 🤖 Artificial Intelligence & Machine Learning
 
-### [Self Driving Car](https://github.com/alienpenguin10/self-driving-car)
-Train an end-to-end deep learning model that enables autonomous driving in a simulator environment. Features computer vision, neural networks, and real-time decision making.
-
 ### [Bath CS & AI Projects](https://github.com/alienpenguin10/Bath-CS-AI-Projects)
 Comprehensive collection of academic projects covering computer vision, deep learning, logic programming, and AI algorithms. Includes 8 diverse projects demonstrating proficiency in AI/ML concepts.
 
